@@ -60,8 +60,7 @@
     },
     "require": {
         "php": "^7.2",
-        "php-ffmpeg/php-ffmpeg": "^0.14",
-        "symfony/filesystem": "^4.3"
+        "php-ffmpeg/php-ffmpeg": "^0.14"
     },
     "suggest": {
         "aminyazdanpanah/php-shaka": "aminyazdanpanah/php-shaka is suggested for using DRM and encryption",
